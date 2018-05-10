@@ -13,7 +13,7 @@ ha_category: Voice
 ha_iot_class: "Cloud Push"
 ---
 
-<p class='note'>The Home Assistant Cloud is currently free and will become part of the upcoming Community Support Package. [Learn more](/blog/2017/12/17/introducing-home-assistant-cloud/)</p>
+<p class='note'>The Home Assistant Cloud is currently free and will become part of the upcoming Community Support Package. Actually is only available in U.S. [Learn more](/blog/2017/12/17/introducing-home-assistant-cloud/)</p>
 
 The Home Assistant Cloud allows you to quickly integrate your local Home Assistant with various cloud services. The following integrations are currently available:
 
